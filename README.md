@@ -8,7 +8,7 @@ Contractor -- (see Maker)
 
 DigixGold (DGX) --
 
-Estimation Points -- (also story points)
+Estimation Points -- (also Story Points)
 
 Estimation Poker --
 
