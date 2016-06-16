@@ -32,4 +32,4 @@ MVP -- Minimum Viable Product
 
 Project Token --
 
-story points -- (see Estimation Points)
+Story Points -- (see Estimation Points)
