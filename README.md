@@ -6,6 +6,8 @@ Crowd Found Hub Bank ---
 
 Contractor -- (see Maker)
 
+Dapp —
+
 DigixGold (DGX) --
 
 Estimation Points -- (also Story Points)
@@ -31,5 +33,7 @@ Maker DAO --
 MVP -- Minimum Viable Product
 
 Project Token --
+
+Story —-
 
 Story Points -- (see Estimation Points)
